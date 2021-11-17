@@ -236,6 +236,17 @@
               "md5": "46f14170a4b1972156a6cd064ccd464b"
             }
           }
+        },
+        {
+          "version": "0.0.11",
+          "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react",
+          "commit": "6d77f92c102d3a5e0fadaa2f17c98fb23e4a6ca4",
+          "download": {
+            "any": {
+              "url": "https://github.com/ACE-IoT-Solutions/ace-svg-react/releases/download/v0.0.11-alpha/Plugin.zip",
+              "md5": "23c267fe062f5934ba5cbabb4535fc34"
+            }
+          }
         }
       ]
     },
@@ -245,9 +256,16 @@
       "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
       "versions": [
         {
-          "version": "2.3.0",
-          "commit": "7d49605338a53314d2dd8bd4508199aca56e2e38",
-          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel"
+          "version": "4.0.3",
+
+          "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel",
+          "download": { 
+            "any": {
+              "url": "https://github.com/NovatecConsulting/novatec-service-dependency-graph-panel/releases/download/v4.0.3/novatec-sdg-panel.zip",
+              "md5": "4ed62779da80c170f78d7c00826e6849"
+            }
+          }
+
         }
       ]
     },
@@ -3168,6 +3186,26 @@
               "md5": "e7ea9f43d8ba3400e194338c540ec4b1"
             }
           }
+        },
+        {
+          "version": "2.0.2",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v2.0.2/frser-sqlite-datasource-2.0.2.zip",
+              "md5": "25ffffe0357b3c0cf8d3a62eaa0a46b3"
+            }
+          }
+        },
+        {
+          "version": "2.1.0",
+          "url": "https://github.com/fr-ser/grafana-sqlite-datasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/fr-ser/grafana-sqlite-datasource/releases/download/v2.1.0/frser-sqlite-datasource-2.1.0.zip",
+              "md5": "88ba7e11da4b79207fc87bdf250bb58f"
+            }
+          }
         }
       ]
     },
@@ -3838,6 +3876,16 @@
             "any": {
               "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.5/simpod-json-datasource.zip",
               "md5": "ab4a4573a0a768aa11af04f075d0b4d8"
+            }
+          }
+        },
+        {
+          "version": "0.2.6",
+          "url": "https://github.com/simPod/GrafanaJsonDatasource",
+          "download": {
+            "any": {
+              "url": "https://github.com/simPod/GrafanaJsonDatasource/releases/download/v0.2.6/simpod-json-datasource.zip",
+              "md5": "19c1337518a0587f5c1244ee27eb4feb"
             }
           }
         }
@@ -4953,6 +5001,25 @@
               "md5": "17d2ae3560068d015f5b80d6ae3ce29f"
             }
           }
+        },
+        {
+          "version": "3.1.0",
+          "commit": "af78b2dee67a5d2236ba3fa9f52a455a7b81d4f6",
+          "url": "https://github.com/grafana/grafana-image-renderer",
+          "download": {
+            "darwin-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.1.0/plugin-darwin-x64-unknown.zip",
+              "md5": "2bdee25293015bd3ee1f1c63cf944e4f"
+            },
+            "linux-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.1.0/plugin-linux-x64-glibc.zip",
+              "md5": "649155ae192e22d89ae71a6c7f6f2390"
+            },
+            "windows-amd64": {
+              "url": "https://github.com/grafana/grafana-image-renderer/releases/download/v3.1.0/plugin-win32-x64-unknown.zip",
+              "md5": "fce49ee6c4f5ebbf54a32dc326020db4"
+            }
+          }
         }
       ]
     },
@@ -5115,6 +5182,26 @@
               "md5": "1fba4f9f0c09a6f84c610626c86a221b"
             }
           }
+        },
+        {
+          "version": "2.1.0",
+          "commit": "570882679dc37ac6f4e997e0ed3ad6062767a494",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/MacroPower/macropower-analytics-panel/releases/download/v2.1.0/macropower-analytics-panel-2.1.0.zip",
+              "md5": "430e8094ca501d32c0dd46f09a53f912"
+        },
+        {
+          "version": "2.0.1",
+          "commit": "18be95e87933686c94ef5fafa1b87609edbe4a7e",
+          "url": "https://github.com/MacroPower/macropower-analytics-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/MacroPower/macropower-analytics-panel/releases/download/v2.0.1/macropower-analytics-panel-2.0.1.zip",
+              "md5": "257c121ee91654260a8ac207f09287c8"
+            }
+          }
         }
       ]
     },
@@ -5245,6 +5332,7 @@
       "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
       "versions": [
         {
+
           "version": "0.2.2",
           "commit": "a9b355d2c1c3188f7a5e177478cba02adef345fc",
           "url": "https://github.com/chaos-mesh/chaos-mesh-datasource",
@@ -6313,6 +6401,17 @@
               "md5": "b74ecafa04f2a1bdb89f1100ceb06031"
             }
           }
+        },
+        {
+          "version": "1.0.5",
+          "commit": "ef02b4568b3279ca8f205555ed15cb2251b4bf0c",
+          "url": "https://github.com/innius/grafana-video-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/innius/grafana-video-panel/releases/download/v1.0.5/innius-video-panel-1.0.5.zip",
+              "md5": "54a9d833b6a63e2a0d330f02faa2753c"
+            }
+          }
         }
       ]
     },
@@ -6577,6 +6676,16 @@
               "md5": "bafad6c9c14711f9c72624df398127a2"
             }
           }
+        },
+        {
+          "version": "0.5.0",
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/ae3e/ae3e-plotly-panel/releases/download/v0.5.0/ae3e-plotly-panel-0.5.0.zip",
+              "md5": "0a42052eb7becd36b10091ad9f6dabdb"
+            }
+          }
         }
       ]
     },
@@ -6715,6 +6824,16 @@
             "any": {
               "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.4.zip",
               "md5": "cf469e7c7e31e4d502baabece19ec947"
+            }
+          }
+        },
+        {
+          "version": "1.0.5",
+          "url": "https://github.com/anodot/grafana-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/anodot/grafana-panel/raw/main/anodot-panel-1.0.5.zip",
+              "md5": "ae0550f8af428888d45bc7c6d2f5b40a"
             }
           }
         }
@@ -7005,9 +7124,37 @@
               "md5": "25fa95780b68370aefa5fe2c4612ffcb"
             }
           }
+        },
+        {
+          "version": "2.1.1",
+          "commit": "8341ff4dddaa8313aea3838ee3a323081bbd9156",
+          "url": "https://github.com/VolkovLabs/grafana-image-panel",
+          "download": {
+            "any": {
+              "url": "https://github.com/VolkovLabs/grafana-image-panel/releases/download/v2.1.1/volkovlabs-image-panel-2.1.1.zip",
+              "md5": "721c9443091921f6a5c8c2c0307292c6"
+            }
+          }
         }
       ]
     },
+ {
+      "id": "sebastiangunreben-cdf-panel",
+      "type": "panel",
+      "url": "https://github.com/sebastiangunreben/sebastiangunreben-cdf-plugin",
+      "versions": [
+        {
+          "version": "0.2.2",
+          "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/tag/v0.2.2",
+          "download": {
+            "any": {
+              "url": "https://github.com/telekom/sebastiangunreben-cdf-plugin/releases/download/v0.2.2/sebastiangunreben-cdf-panel-0.2.2.zip",
+              "md5": "74fc9b456f4010e38075ca4896cc3a1e"
+            }
+          }
+        }
+        ]
+},
     {
       "id": "sebastiangunreben-cdf-panel",
       "type": "panel",
